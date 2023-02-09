@@ -1,0 +1,34 @@
+.input-group {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
+  align-items: end;
+}
+
+.input {
+}
+
+.input-label {
+  font-size: 0.9em;
+  margin-bottom: 10px;
+}
+
+input {
+  padding: 7px 9px;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid black;
+  width: 300px;
+  font-size: 1.1em;
+}
+
+.add-todo-btn {
+  padding: 9px 11px;
+  background-color: dodgerblue;
+  border: 1px solid dodgerblue;
+  color: white;
+  border-radius: 3px;
+  font-weight: 600;
+  font-size: 1.2em;
+  cursor: pointer;
+}

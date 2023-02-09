@@ -1,0 +1,15 @@
+.header {
+}
+
+.header-text {
+  font-weight: 800;
+  color: red;
+  font-size: 1.2em;
+}
+
+.sub-header-text {
+  font-weight: 500;
+  font-style: italic;
+  color: dodgerblue;
+  font-size: 1.1em;
+}

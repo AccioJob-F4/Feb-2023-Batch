@@ -1,0 +1,15 @@
+.list-item {
+  margin: 30px;
+}
+
+.delete-btn {
+  padding: 9px 11px;
+  background-color: red;
+  border: 1px solid red;
+  color: white;
+  border-radius: 3px;
+  font-weight: 600;
+  font-size: 1.2em;
+  cursor: pointer;
+  margin-left: 20px;
+}
