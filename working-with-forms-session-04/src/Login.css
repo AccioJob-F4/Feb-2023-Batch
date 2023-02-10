@@ -1,0 +1,37 @@
+.container {
+  margin: 20px;
+}
+
+input {
+  padding: 7px 9px;
+  font-size: 1.1em;
+  outline: none;
+}
+
+.form-btn {
+}
+
+button {
+  padding: 11px 17px;
+  background: dodgerblue;
+  color: white;
+  font-size: 1.3em;
+  border-radius: 3px;
+  outline: none;
+  border: 1px solid dodgerblue;
+}
+
+.error-msg {
+  margin: 25px;
+  font-size: 1.5em;
+  font-style: italic;
+  font-weight: 600;
+}
+
+.error {
+  color: red;
+}
+
+.success {
+  color: green;
+}
