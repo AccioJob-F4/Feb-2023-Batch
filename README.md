@@ -38,4 +38,9 @@ React Lifecycle Methods References : [Reference - 01 : Medium Article](https://m
 ## Calender React
 
 [Question](https://course.acciojob.com/web-idle?question=5f4b50cb-5b9d-481c-9836-3f1f3857dafa)
-[Answer](https://github.com/acciojob/calendar-react-RgnDunes)
+[Solution](https://github.com/acciojob/calendar-react-RgnDunes)
+
+## Max Numbers
+
+[Question](https://course.acciojob.com/idle?question=970d8dbc-5856-4753-aed0-cbf16f7c4b03)
+[Solution](https://github.com/AccioJob-F4/Feb-2023-Batch/blob/master/max-numbers.js)
