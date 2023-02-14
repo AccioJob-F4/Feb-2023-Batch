@@ -8,6 +8,12 @@ Udemy React Course : [Link](https://www.udemy.com/course/react-the-complete-guid
 
 React Lifecycle Methods References : [Reference - 01 : Medium Article](https://medium.com/how-to-react/react-life-cycle-methods-with-examples-2bdb7465332b)   | [Reference - 02 : GeeksforGeeks Article](https://www.geeksforgeeks.org/reactjs-lifecycle-components/)
 
+CSS Classname Naming Conventions : [Article](https://getbem.com/naming/)
+
+Learn Flexbox in a funny and interactive way using a frog game : [Game Link](https://flexboxfroggy.com/)
+
+How to write a proper commit message : [Article](https://chiamakaikeanyi.dev/how-to-write-good-git-commit-messages/)
+
 # Assignment Solutions
 
 ## Flames App
