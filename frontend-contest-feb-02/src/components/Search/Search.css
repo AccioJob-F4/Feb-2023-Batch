@@ -1,0 +1,16 @@
+.searchContainer {
+  width: 100%;
+  padding: 15px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.searchContainer > input {
+  background-color: inherit;
+  color: white;
+  width: calc(100% - 30px);
+  padding: 11px;
+  outline: none;
+  border: 1px solid white;
+  border-radius: 11px;
+}
