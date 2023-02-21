@@ -1,8 +1,14 @@
 import React, { useState, useEffect } from "react";
 
+import axios from "axios";
+
 import Card from "./components/Card/Card";
 import Search from "./components/Search/Search";
 import "./App.css";
+
+const client = axios.create({
+  baseURL: "https://jsonplaceholder.typicode.com/posts",
+});
 
 const App = () => {
   const [posts, setPosts] = useState([]);
@@ -28,10 +34,17 @@ const App = () => {
 
   const getPostsData = () => {
     try {
+      // client.get(`?_page=${pageNo}&_limit=20`).then((resp) => {
+      //   console.log("axios : ", resp.data);
+      // });
+
       fetch(
         `https://jsonplaceholder.typicode.com/posts?_page=${pageNo}&_limit=20`
       )
-        .then((resp) => resp.json())
+        .then((resp) => {
+          console.log("fetch : ", resp);
+          return resp.json();
+        })
         .then((data) => {
           const updatedPosts = data?.map((postObj) => {
             postObj.likes = 0;
