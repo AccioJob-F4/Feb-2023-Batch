@@ -50,3 +50,18 @@ How to write a proper commit message : [Article](https://chiamakaikeanyi.dev/how
 
 [Question](https://course.acciojob.com/idle?question=970d8dbc-5856-4753-aed0-cbf16f7c4b03)
 [Solution](https://github.com/AccioJob-F4/Feb-2023-Batch/blob/master/max-numbers.js)
+
+## Increasing Array
+
+[Question](https://course.acciojob.com/idle?question=bf1b9a42-45c8-4487-b952-cb16200f5196)
+[Solution](https://github.com/AccioJob-F4/Feb-2023-Batch/blob/master/increasing-array.js)
+
+## Number of ways
+
+[Question](https://course.acciojob.com/idle?question=3ef71ab6-9bcd-4a4a-958f-7aef47476c32)
+[Solution](https://github.com/AccioJob-F4/Feb-2023-Batch/blob/master/number-of-ways.js)
+
+## Easy Sorting (C++ / CPP)
+
+[Question](https://course.acciojob.com/idle?question=ba2da52a-3f78-405f-91a0-1fcdd060bbdb)
+[Solution](https://github.com/AccioJob-F4/Feb-2023-Batch/blob/master/easy-sorting.cpp)
