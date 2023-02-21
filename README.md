@@ -14,6 +14,12 @@ Learn Flexbox in a funny and interactive way using a frog game : [Game Link](htt
 
 How to write a proper commit message : [Article](https://chiamakaikeanyi.dev/how-to-write-good-git-commit-messages/)
 
+Private and Restricted Routes : [Article](https://www.robinwieruch.de/react-router-private-routes/)
+
+React Query Docs : [Doc](https://tanstack.com/query/v4/docs/react/reference/useQuery)
+
+
+
 # Assignment Solutions
 
 ## Flames App
