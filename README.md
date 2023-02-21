@@ -6,7 +6,7 @@ Github Tutorials : [Link](https://www.youtube.com/playlist?list=PLu0W_9lII9agwhy
 
 Udemy React Course : [Link](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
-React Lifecycle Methods References : [Reference - 01 : Medium Article](https://medium.com/how-to-react/react-life-cycle-methods-with-examples-2bdb7465332b)   | [Reference - 02 : GeeksforGeeks Article](https://www.geeksforgeeks.org/reactjs-lifecycle-components/)
+React Lifecycle Methods References : [Reference - 01 : Medium Article](https://medium.com/how-to-react/react-life-cycle-methods-with-examples-2bdb7465332b) | [Reference - 02 : GeeksforGeeks Article](https://www.geeksforgeeks.org/reactjs-lifecycle-components/)
 
 CSS Classname Naming Conventions : [Article](https://getbem.com/naming/)
 
@@ -14,11 +14,11 @@ Learn Flexbox in a funny and interactive way using a frog game : [Game Link](htt
 
 How to write a proper commit message : [Article](https://chiamakaikeanyi.dev/how-to-write-good-git-commit-messages/)
 
+React Router Dom v6 : [Article](https://blog.webdevsimplified.com/2022-07/react-router/)
+
 Private and Restricted Routes : [Article](https://www.robinwieruch.de/react-router-private-routes/)
 
 React Query Docs : [Doc](https://tanstack.com/query/v4/docs/react/reference/useQuery)
-
-
 
 # Assignment Solutions
 
@@ -71,3 +71,33 @@ React Query Docs : [Doc](https://tanstack.com/query/v4/docs/react/reference/useQ
 
 [Question](https://course.acciojob.com/idle?question=ba2da52a-3f78-405f-91a0-1fcdd060bbdb)
 [Solution](https://github.com/AccioJob-F4/Feb-2023-Batch/blob/master/easy-sorting.cpp)
+
+## Make Button Action
+
+[Question](https://course.acciojob.com/web-idle?question=76dd38ec-119c-443a-ac40-cb248db56576)
+[Solution](https://github.com/acciojob/button-action-RgnDunes)
+
+## Render Multiple Component
+
+[Question](https://course.acciojob.com/web-idle?question=dabf9730-49e8-4af8-87f0-bf578b235d25)
+[Solution](https://github.com/acciojob/render-multiple-component-react-RgnDunes)
+
+## Relative List
+
+[Question](https://course.acciojob.com/web-idle?question=7e3ecc5d-a59b-456a-8514-5c47fb5bb627)
+[Solution](https://github.com/acciojob/relative-list-react-RgnDunes)
+
+## Holiday List
+
+[Question](https://course.acciojob.com/web-idle?question=9339320d-3199-4cce-a48b-3235ac5d45b7)
+[Solution](https://github.com/acciojob/holiday-list-react-RgnDunes)
+
+## Greeting new students at school
+
+[Question](https://course.acciojob.com/web-idle?question=2aacf855-a3b9-4fbf-886d-bf587e5dfafb)
+[Solution](https://github.com/acciojob/greeting-students-props-react-RgnDunes)
+
+## React Component on DOM Node
+
+[Question](https://course.acciojob.com/web-idle?question=769e329d-19ef-4e82-83f5-402eab55748d)
+[Solution](https://github.com/acciojob/single-component-debug-react-RgnDunes)
