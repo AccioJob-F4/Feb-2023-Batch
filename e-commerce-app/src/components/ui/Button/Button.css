@@ -1,0 +1,23 @@
+.button-body {
+  display: grid;
+  place-items: center;
+}
+
+.button-body > button {
+  margin-bottom: 20px;
+  outline: none;
+  border: 1px solid dodgerblue;
+  padding: 7px 11px;
+  width: 200px;
+  font-size: 1.1em;
+  font-weight: 700;
+  background-color: dodgerblue;
+  color: white;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+.button-body > button:hover {
+  background-color: blue;
+  border: 1px solid blue;
+}
