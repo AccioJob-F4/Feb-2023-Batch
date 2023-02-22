@@ -22,6 +22,8 @@ Private and Restricted Routes : [Article](https://www.robinwieruch.de/react-rout
 
 React Query Docs : [Doc](https://tanstack.com/query/v4/docs/react/reference/useQuery)
 
+React Component Composition Explained : [Article](https://felixgerschau.com/react-component-composition/)
+
 # Assignment Solutions
 
 ## Flames App
