@@ -1,15 +1,19 @@
 import React, { useState } from "react";
+import { useNavigate } from "react-router-dom";
 
 import "./Login.css";
 
 import Input from "../ui/Input/Input";
 import Button from "../ui/Button/Button";
 import { client } from "../../axiosClient";
+import { PATHS } from "../../paths";
 
 const Login = () => {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
+
+  const navigate = useNavigate();
 
   const handleChange = (e) => {
     const { name, value } = e.target;
@@ -34,6 +38,7 @@ const Login = () => {
         .post("login", body)
         .then((resp) => {
           window.localStorage.setItem("token", resp.data.token);
+          navigate(PATHS.PRODUCT_LIST);
         })
         .catch((err) => {
           setError(err.response.data.error);
