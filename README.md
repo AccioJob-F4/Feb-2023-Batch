@@ -24,6 +24,10 @@ React Query Docs : [Doc](https://tanstack.com/query/v4/docs/react/reference/useQ
 
 React Component Composition Explained : [Article](https://felixgerschau.com/react-component-composition/)
 
+Prop Drilling : [Article](https://kentcdodds.com/blog/prop-drilling)
+
+Redux : [Article](https://blog.logrocket.com/understanding-redux-tutorial-examples/)
+
 # Assignment Solutions
 
 ## Flames App
