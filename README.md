@@ -28,6 +28,10 @@ Prop Drilling : [Article](https://kentcdodds.com/blog/prop-drilling)
 
 Redux : [Article](https://blog.logrocket.com/understanding-redux-tutorial-examples/)
 
+Github Repo for React/Redux Interview Prep : [Repo](https://github.com/sudheerj/reactjs-interview-questions)
+
+Redux Interview Questions : [Link](https://www.interviewbit.com/redux-interview-questions/#redux-mcq-questions)
+
 # Assignment Solutions
 
 ## Flames App
