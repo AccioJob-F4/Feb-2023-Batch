@@ -25,15 +25,6 @@ const Login = () => {
     if (email && password) {
       const body = { email, password };
 
-      //   fetch("https://reqres.in/api/login", {
-      //     method: "POST",
-      //     body: JSON.stringify(body),
-      //   })
-      //     .then((resp) => resp.json())
-      //     .then((data) => {
-      //       window.localStorage.setItem("token", data.token);
-      //     });
-
       client
         .post("login", body)
         .then((resp) => {

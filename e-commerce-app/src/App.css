@@ -3,3 +3,7 @@
   place-items: center;
   height: 100vh;
 }
+
+.app-body {
+  margin-top: 80px;
+}

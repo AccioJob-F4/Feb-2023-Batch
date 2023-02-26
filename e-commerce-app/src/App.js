@@ -5,7 +5,7 @@
 // Create Shared Layout  : Private Routes and Restricted Routes  DONE
 
 import React from "react";
-import { Routes, Route } from "react-router-dom";
+import { Routes, Route, Navigate } from "react-router-dom";
 
 import "./App.css";
 
@@ -22,6 +22,8 @@ const App = () => {
   return (
     <div className="app-container">
       <Routes>
+        <Route exact path="/" element={<Navigate to={PATHS.PRODUCT_LIST} />} />
+
         <Route path="/" element={<PrivateRoutes />}>
           <Route path={PATHS.PRODUCT_LIST} element={<ProductList />} />
           <Route path={PATHS.PRODUCT_DETAIL} element={<ProductDetail />} />
@@ -31,6 +33,8 @@ const App = () => {
         <Route path="/" element={<RestrictedRoutes />}>
           <Route path={PATHS.LOGIN} element={<Login />} />
         </Route>
+
+        <Route path="*" element={<Navigate to={PATHS.PRODUCT_LIST} />} />
       </Routes>
     </div>
   );

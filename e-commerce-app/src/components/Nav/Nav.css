@@ -1,0 +1,46 @@
+.nav-container {
+  border: 1px solid #edf0f5;
+  box-shadow: 0px 4px 15px rgba(11, 112, 231, 0.05);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 50px;
+  background: #1b2637;
+  width: 100%;
+  position: fixed;
+  top: 0;
+}
+
+.nav-logo {
+  object-fit: contain;
+  width: 70px;
+}
+
+.nav-app-name {
+  font-size: 1.8em;
+  color: wheat;
+  font-weight: 800;
+  letter-spacing: 10px;
+}
+
+.nav-right {
+  display: flex;
+}
+
+.nav-cart {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.2em;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  text-align: right;
+  color: rgba(255, 255, 255, 0.6);
+  box-shadow: 0px 4px 15px rgba(11, 112, 231, 0.05);
+  padding: 13px 19px;
+  border-radius: 7px;
+  cursor: pointer;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  margin-left: 10px;
+}
