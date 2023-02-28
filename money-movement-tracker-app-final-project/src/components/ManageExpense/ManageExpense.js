@@ -17,7 +17,6 @@ import {
 } from "@chakra-ui/react";
 
 import Filters from "./Filters";
-import { INITIAL_STORE } from "../../store";
 import { DELETE_EXPENSE } from "../../store/action";
 import Nav from "../Nav/Nav";
 
@@ -29,7 +28,6 @@ const filterStyle = {
 
 const ManageExpense = () => {
   const store = useSelector((state) => state);
-  const [expenses, setExpenses] = useState(store);
   const [filteredExpenses, setFilteredExpenses] = useState(store);
 
   const dispatch = useDispatch();
