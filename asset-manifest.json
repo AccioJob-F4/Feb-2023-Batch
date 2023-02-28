@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Feb-2023-Batch/static/css/main.4152c3d3.css",
+    "main.js": "/Feb-2023-Batch/static/js/main.eb650fae.js",
+    "index.html": "/Feb-2023-Batch/index.html",
+    "main.4152c3d3.css.map": "/Feb-2023-Batch/static/css/main.4152c3d3.css.map",
+    "main.eb650fae.js.map": "/Feb-2023-Batch/static/js/main.eb650fae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4152c3d3.css",
+    "static/js/main.eb650fae.js"
+  ]
+}
