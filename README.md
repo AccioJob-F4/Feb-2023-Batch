@@ -32,6 +32,8 @@ Github Repo for React/Redux Interview Prep : [Repo](https://github.com/sudheerj/
 
 Redux Interview Questions : [Link](https://www.interviewbit.com/redux-interview-questions/#redux-mcq-questions)
 
+Firebase : [GFG Link](https://www.geeksforgeeks.org/how-to-use-firestore-database-in-reactjs/)
+
 # Assignment Solutions
 
 ## Flames App
